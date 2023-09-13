@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=C2 Pin=U1-21
+Removed Pin From Net: NetName=C3 Pin=U1-22
+Removed Pin From Net: NetName=C4 Pin=U1-23
+Removed Pin From Net: NetName=C5 Pin=U1-24
+Removed Pin From Net: NetName=C7 Pin=U1-26
+Removed Pin From Net: NetName=A7 Pin=U1-30
+Removed Pin From Net: NetName=A6 Pin=U1-31
+Removed Pin From Net: NetName=A5 Pin=U1-32
+Removed Pin From Net: NetName=A4 Pin=U1-33
+Added Pin To Net: NetName=A6 Pin=U1-21
+Added Pin To Net: NetName=A5 Pin=U1-22
+Added Pin To Net: NetName=A4 Pin=U1-23
+Added Pin To Net: NetName=C7 Pin=U1-24
+Added Pin To Net: NetName=C5 Pin=U1-26
+Added Pin To Net: NetName=C4 Pin=U1-30
+Added Pin To Net: NetName=C3 Pin=U1-31
+Added Pin To Net: NetName=A7 Pin=U1-32
+Added Pin To Net: NetName=C2 Pin=U1-33
+Change Net Name : Old Net Name=A4 New Net Name=C4
+Change Net Name : Old Net Name=A5 New Net Name=C3
+Change Net Name : Old Net Name=A6 New Net Name=C2
+Change Net Name : Old Net Name=A7 New Net Name=A5
+Change Net Name : Old Net Name=C2 New Net Name=A4
+Change Net Name : Old Net Name=C3 New Net Name=A6
+Change Net Name : Old Net Name=C4 New Net Name=A7
+Change Net Name : Old Net Name=C5 New Net Name=C7
+Change Net Name : Old Net Name=C7 New Net Name=C5

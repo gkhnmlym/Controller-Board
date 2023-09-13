@@ -1,0 +1,15 @@
+Added Component: Designator=L2(Inductor 6060)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.epcos.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.epcos.com/inf/30/db/ind_2008/b82462g4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Mar-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM Power Inductor; 2 Leads; Body 6.3 x 6.3 x 3.0 mm (LxWxH)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "B82462G4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Mar-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "26-Sep-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=L2-1
+Added Pin To Net: NetName=NetF1_1 Pin=L2-2
+Added Member To Class: ClassName=Power Member=Component L2 L_6060_8u2

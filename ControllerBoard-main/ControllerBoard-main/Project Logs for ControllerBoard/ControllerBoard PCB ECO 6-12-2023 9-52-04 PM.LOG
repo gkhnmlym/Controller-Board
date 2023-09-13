@@ -1,0 +1,12 @@
+Added Component: Designator=D7(SOT23)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Semtech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SM712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Semtech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SM712/Semtech/view-part/4219095/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX232 Pin=D7-1
+Added Pin To Net: NetName=TX232 Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D7-3
+Added Member To Class: ClassName=MCU Member=Component D7 D_SOT23_SM712

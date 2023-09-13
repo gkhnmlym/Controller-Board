@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=X1-4
+Change Component Comment : Designator=X1 Old Comment=X_Package_Value New Comment=X_3225_20MHz
+Added Component: Designator=C33(CAP 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAP 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CAP 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=F3(FUSE 1206_3216 0.6MM)
+Added Component: Designator=R9(RES 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC16)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAX232DW/Texas%20Instruments/view-part/7702/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX232DW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MAX232DW/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX232DW/Texas%20Instruments/view-part/7702/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC28_1 Pin=C26-1
+Added Pin To Net: NetName=NetC28_1 Pin=C27-1
+Added Pin To Net: NetName=NetC28_1 Pin=C30-1
+Added Pin To Net: NetName=NetC28_1 Pin=C31-1
+Added Pin To Net: NetName=+5 Pin=C37-2
+Added Pin To Net: NetName=NetD2_2 Pin=F3-1
+Added Pin To Net: NetName=NetC28_1 Pin=F3-2
+Added Pin To Net: NetName=RXD1 Pin=R9-2
+Added Pin To Net: NetName=TXD1 Pin=R13-2
+Added Pin To Net: NetName=NetC28_1 Pin=U3-5
+Added Pin To Net: NetName=NetC28_1 Pin=U5-5
+Added Pin To Net: NetName=+5 Pin=U6-16
+Change Net Name : Old Net Name=NetC28_1 New Net Name=Vmotor
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=X1-4
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=U6-1
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=U6-3
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=U6-4
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC34_2 Pin=U6-5
+Added Net: Name=NetC34_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=C36-1
+Added Pin To Net: NetName=NetC35_1 Pin=C37-1
+Added Pin To Net: NetName=NetC35_1 Pin=U6-15
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=U6-2
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=U6-6
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=R1IN Pin=U6-13
+Added Net: Name=R1IN
+Added Pin To Net: NetName=RX(232) Pin=R9-1
+Added Net: Name=RX(232)
+Added Pin To Net: NetName=TX(232) Pin=R13-1
+Added Pin To Net: NetName=TX(232) Pin=U6-11
+Added Net: Name=TX(232)
+Added Member To Class: ClassName=MCU Member=Component C33 C_0603_1u 50V
+Added Member To Class: ClassName=MCU Member=Component C34 C_0603_1u 50V
+Added Member To Class: ClassName=MCU Member=Component C35 C_0603_1u 50V
+Added Member To Class: ClassName=MCU Member=Component C36 C_0603_1u 50V
+Added Member To Class: ClassName=MCU Member=Component C37 C_0603_10u 50V
+Added Member To Class: ClassName=Power Member=Component F3 F_Package_Value
+Added Member To Class: ClassName=Motor Member=Component J14 J_Pinspace_Pincount
+Added Member To Class: ClassName=MCU Member=Component R9 R_0603_0R
+Added Member To Class: ClassName=MCU Member=Component R13 R_0603_0R
+Added Member To Class: ClassName=MCU Member=Component U6 U_SOIC16_MAX232

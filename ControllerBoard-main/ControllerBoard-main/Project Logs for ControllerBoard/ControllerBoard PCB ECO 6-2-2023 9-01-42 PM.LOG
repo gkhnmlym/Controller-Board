@@ -1,0 +1,136 @@
+Change Component Footprint: Designator=J3 Old Footprint=2 Pin PCB TB 5.08 New Footprint=2 Pin PCB STB 5.08
+Change Component Footprint: Designator=J14 Old Footprint=2 Pin PCB TB 5.08 New Footprint=2 Pin PCB STB 5.08
+Change Component Footprint: Designator=J15 Old Footprint=2 Pin PCB TB 5.08 New Footprint=2 Pin PCB STB 5.08
+Change Component Footprint: Designator=J16 Old Footprint=2 Pin PCB TB 5.08 New Footprint=2 Pin PCB STB 5.08
+Change Component Footprint: Designator=J4 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J5 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J6 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J7 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J8 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J9 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J10 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J11 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J12 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J13 Old Footprint=3 Pin PCB TB 5.08 New Footprint=3 Pin PCB STB 5.08
+Change Component Footprint: Designator=J1 Old Footprint=4 Pin PCB TB 5.08 New Footprint=4 Pin PCB STB 5.08
+Change Component Footprint: Designator=J2 Old Footprint=4 Pin PCB TB 5.08 New Footprint=4 Pin PCB STB 5.08
+Change Component Comment : Designator=C15 Old Comment=C_0603_15p 50V New Comment=C_Package_Value
+Change Component Comment : Designator=C2 Old Comment=C_0603_22n 50V New Comment=C_Package_Value
+Change Component Comment : Designator=C3 Old Comment=C_0603_22n 50V New Comment=C_Package_Value
+Change Component Comment : Designator=C14 Old Comment=C_0603_22n 50V New Comment=C_Package_Value
+Change Component Comment : Designator=C1 Old Comment=C_0603_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C4 Old Comment=C_0603_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C5 Old Comment=C_0603_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C6 Old Comment=C_0603_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C7 Old Comment=C_0603_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C8 Old Comment=C_0603_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C13 Old Comment=C_0603_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C27 Old Comment=C_1206_47u 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C29 Old Comment=C_1206_47u 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C31 Old Comment=C_1206_47u 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C16 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C17 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C18 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C19 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C20 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C21 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C22 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C23 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C24 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C25 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C26 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C28 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C30 Old Comment=C_1206_100n 100V New Comment=C_Package_Value
+Change Component Comment : Designator=C11 Old Comment=C_1210_4u7 80V New Comment=C_Package_Value
+Change Component Comment : Designator=C12 Old Comment=C_1210_4u7 80V New Comment=C_Package_Value
+Change Component Comment : Designator=C10 Old Comment=C_1210_47u 16V New Comment=C_Package_Value
+Change Component Comment : Designator=C9 Old Comment=C_2312_10u 35V New Comment=C_Case_Value
+Change Component Comment : Designator=D2 Old Comment=D_214AC_B360A New Comment=D_Package_Product
+Change Component Comment : Designator=D5 Old Comment=D_214AC_B360A New Comment=D_Package_Product
+Change Component Comment : Designator=D6 Old Comment=D_214AC_SMAJ48CA New Comment=D_Package_Product
+Change Component Comment : Designator=D3 Old Comment=D_0603_Green New Comment=D_Package_Color
+Change Component Comment : Designator=D8 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D9 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D12 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D14 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D16 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D18 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D20 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D22 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D24 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D26 Old Comment=D_0603_Red New Comment=D_Package_Color
+Change Component Comment : Designator=D1 Old Comment=D_0603_Yellow New Comment=D_Package_Color
+Change Component Comment : Designator=D4 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D10 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D11 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D13 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D15 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D17 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D19 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D21 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D23 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D25 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=D27 Old Comment=D_SOD123_TVS5V New Comment=D_Package_Product
+Change Component Comment : Designator=F1 Old Comment=F_1206_Value New Comment=F_Package_Value
+Change Component Comment : Designator=F2 Old Comment=F_1206_Value New Comment=F_Package_Value
+Change Component Comment : Designator=J3 Old Comment=J_5.08_01x02 New Comment=J_Pinspace_Pincount
+Change Component Comment : Designator=J14 Old Comment=J_5.08_01x02 New Comment=J_Pinspace_Pincount
+Change Component Comment : Designator=J15 Old Comment=J_5.08_01x02 New Comment=J_Pinspace_Pincount
+Change Component Comment : Designator=J16 Old Comment=J_5.08_01x02 New Comment=J_Pinspace_Pincount
+Change Component Comment : Designator=J1 Old Comment=J_5.08_4Pin New Comment=J_Pinspace_Pincount
+Change Component Comment : Designator=J2 Old Comment=J_5.08_4Pin New Comment=J_Pinspace_Pincount
+Change Component Comment : Designator=L1 Old Comment=L_0603_120R New Comment=L_Package_Value
+Change Component Comment : Designator=L2 Old Comment=L_6060_8u2 New Comment=L_Package_Value
+Change Component Comment : Designator=Q1 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=Q2 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=Q3 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=Q4 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=Q5 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=Q6 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=Q7 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=Q8 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=Q9 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=Q10 Old Comment=Q_4-SMD_PC817 New Comment=Q_Package_Product
+Change Component Comment : Designator=R2 Old Comment=R_0603_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R3 Old Comment=R_0603_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R4 Old Comment=R_0603_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R5 Old Comment=R_0603_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R6 Old Comment=R_0603_1M New Comment=R_Package_Value
+Change Component Comment : Designator=R7 Old Comment=R_0603_4K7 New Comment=R_Package_Value
+Change Component Comment : Designator=R10 Old Comment=R_0603_10k New Comment=R_Package_Value
+Change Component Comment : Designator=R14 Old Comment=R_0603_300k New Comment=R_Package_Value
+Change Component Comment : Designator=R1 Old Comment=R_0603_590R New Comment=R_Package_Value
+Change Component Comment : Designator=R12 Old Comment=R_0603_590R New Comment=R_Package_Value
+Change Component Comment : Designator=R18 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R19 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R21 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R23 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R25 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R27 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R29 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R31 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R33 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R35 Old Comment=R_1206_1K New Comment=R_Package_Value
+Change Component Comment : Designator=R15 Old Comment=R_1206_10k New Comment=R_Package_Value
+Change Component Comment : Designator=R16 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R17 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R20 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R22 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R24 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R26 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R28 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R30 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R32 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R34 Old Comment=R_1206_10K New Comment=R_Package_Value
+Change Component Comment : Designator=R8 Old Comment=R_1206_27k New Comment=R_Package_Value
+Change Component Comment : Designator=R11 Old Comment=R_1206_27k New Comment=R_Package_Value
+Change Component Comment : Designator=R36 Old Comment=R_1206_32K New Comment=R_Package_Value
+Change Component Comment : Designator=R37 Old Comment=R_1206_32K New Comment=R_Package_Value
+Change Component Comment : Designator=R38 Old Comment=R_1206_32K New Comment=R_Package_Value
+Change Component Comment : Designator=U3 Old Comment=U_SOIC8_DRV8871DDA New Comment=U_Package_Product
+Change Component Comment : Designator=U2 Old Comment=U_SOIC8_TPS54360 New Comment=TPS54360QDDAQ1
+Change Component Comment : Designator=X1 Old Comment=X_3225_20MHz New Comment=X_Package_Value
+Added Room: Name=IO
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

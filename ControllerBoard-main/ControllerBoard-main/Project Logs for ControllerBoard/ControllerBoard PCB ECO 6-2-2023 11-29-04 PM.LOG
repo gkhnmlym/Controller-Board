@@ -1,0 +1,227 @@
+Change Component Comment : Designator=C9 Old Comment=C_Case_Value New Comment=C_2312_10u 35V
+Change Component Comment : Designator=C15 Old Comment=C_Package_Value New Comment=C_0603_15p 50V
+Change Component Comment : Designator=C14 Old Comment=C_Package_Value New Comment=C_0603_22n 50V
+Change Component Comment : Designator=C8 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C13 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C16 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C17 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C18 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C19 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C20 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C21 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C22 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C23 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C24 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C25 Old Comment=C_Package_Value New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C27 Old Comment=C_Package_Value New Comment=C_1206_47u 100V
+Change Component Comment : Designator=C29 Old Comment=C_Package_Value New Comment=C_1206_47u 100V
+Change Component Comment : Designator=C31 Old Comment=C_Package_Value New Comment=C_1206_47u 100V
+Change Component Comment : Designator=C26 Old Comment=C_Package_Value New Comment=C_1206_100n 100V
+Change Component Comment : Designator=C28 Old Comment=C_Package_Value New Comment=C_1206_100n 100V
+Change Component Comment : Designator=C30 Old Comment=C_Package_Value New Comment=C_1206_100n 100V
+Change Component Comment : Designator=C11 Old Comment=C_Package_Value New Comment=C_1210_4u7 80V
+Change Component Comment : Designator=C12 Old Comment=C_Package_Value New Comment=C_1210_4u7 80V
+Change Component Comment : Designator=C10 Old Comment=C_Package_Value New Comment=C_1210_47u 16V
+Change Component Comment : Designator=D3 Old Comment=D_Package_Color New Comment=D_0603_Green
+Change Component Comment : Designator=D8 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D9 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D12 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D14 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D16 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D18 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D20 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D22 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D24 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D26 Old Comment=D_Package_Color New Comment=D_0805_GREEN
+Change Component Comment : Designator=D2 Old Comment=D_Package_Product New Comment=D_214AC_B360A
+Change Component Comment : Designator=D5 Old Comment=D_Package_Product New Comment=D_214AC_B360A
+Change Component Comment : Designator=D6 Old Comment=D_Package_Product New Comment=D_214AC_SMAJ48CA
+Change Component Comment : Designator=D4 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D10 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D11 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D13 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D15 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D17 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D19 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D21 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D23 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D25 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=D27 Old Comment=D_Package_Product New Comment=D_SOD123_TVS5V
+Change Component Comment : Designator=F1 Old Comment=F_Package_Value New Comment=F_1206_Value
+Change Component Comment : Designator=F2 Old Comment=F_Package_Value New Comment=F_1206_Value
+Change Component Comment : Designator=F3 Old Comment=F_Package_Value New Comment=F_1206_Value
+Change Component Comment : Designator=J14 Old Comment=J_Pinspace_Pincount New Comment=J_5.08_01x02
+Change Component Comment : Designator=J15 Old Comment=J_Pinspace_Pincount New Comment=J_5.08_01x02
+Change Component Comment : Designator=J16 Old Comment=J_Pinspace_Pincount New Comment=J_5.08_01x02
+Change Component Comment : Designator=L2 Old Comment=L_Package_Value New Comment=L_6060_8u2
+Change Component Comment : Designator=Q1 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=Q2 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=Q3 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=Q4 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=Q5 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=Q6 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=Q7 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=Q8 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=Q9 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=Q10 Old Comment=Q_Package_Product New Comment=Q_4SMD_PC817
+Change Component Comment : Designator=R18 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R19 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R21 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R23 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R25 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R27 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R29 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R31 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R33 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R35 Old Comment=R_Package_Value New Comment=R_0603_2.2K
+Change Component Comment : Designator=R16 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R17 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R20 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R22 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R24 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R26 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R28 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R30 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R32 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R34 Old Comment=R_Package_Value New Comment=R_0603_4K7
+Change Component Comment : Designator=R10 Old Comment=R_Package_Value New Comment=R_0603_10k
+Change Component Comment : Designator=R15 Old Comment=R_Package_Value New Comment=R_0603_10k
+Change Component Comment : Designator=R14 Old Comment=R_Package_Value New Comment=R_0603_300k
+Change Component Comment : Designator=R12 Old Comment=R_Package_Value New Comment=R_0603_590R
+Change Component Comment : Designator=R8 Old Comment=R_Package_Value New Comment=R_1206_27k
+Change Component Comment : Designator=R11 Old Comment=R_Package_Value New Comment=R_1206_27k
+Change Component Comment : Designator=R36 Old Comment=R_Package_Value New Comment=R_1206_32K
+Change Component Comment : Designator=R37 Old Comment=R_Package_Value New Comment=R_1206_32K
+Change Component Comment : Designator=R38 Old Comment=R_Package_Value New Comment=R_1206_32K
+Added Component: Designator=R?(RES 1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC8)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/DRV8871DDA/Texas%20Instruments/view-part/547750/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8871DDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HSOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DRV8871DDA/Texas%20Instruments/view-part/547750/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC8)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/DRV8871DDA/Texas%20Instruments/view-part/547750/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8871DDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HSOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DRV8871DDA/Texas%20Instruments/view-part/547750/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC8)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/DRV8871DDA/Texas%20Instruments/view-part/547750/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8871DDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HSOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DRV8871DDA/Texas%20Instruments/view-part/547750/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B1 Pin=R?-1
+Added Pin To Net: NetName=B2 Pin=R?-1
+Added Pin To Net: NetName=D4 Pin=R?-1
+Added Pin To Net: NetName=D5 Pin=R?-1
+Added Pin To Net: NetName=D6 Pin=R?-1
+Added Pin To Net: NetName=D7 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetR36_2 Pin=U?-4
+Added Pin To Net: NetName=NetR37_2 Pin=U?-4
+Added Pin To Net: NetName=NetR38_2 Pin=U?-4
+Added Pin To Net: NetName=Vmotor Pin=U?-5
+Added Pin To Net: NetName=Vmotor Pin=U?-5
+Added Pin To Net: NetName=Vmotor Pin=U?-5
+Added Pin To Net: NetName=NetJ14_2 Pin=U?-6
+Added Pin To Net: NetName=NetJ15_2 Pin=U?-6
+Added Pin To Net: NetName=NetJ16_2 Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=NetJ14_1 Pin=U?-8
+Added Pin To Net: NetName=NetJ15_1 Pin=U?-8
+Added Pin To Net: NetName=NetJ16_1 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-3
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Motor Member=Component R? R_0603_100R
+Added Member To Class: ClassName=Motor Member=Component R? R_0603_100R
+Added Member To Class: ClassName=Motor Member=Component R? R_0603_100R
+Added Member To Class: ClassName=Motor Member=Component R? R_0603_100R
+Added Member To Class: ClassName=Motor Member=Component R? R_0603_100R
+Added Member To Class: ClassName=Motor Member=Component R? R_0603_100R
+Added Member To Class: ClassName=Motor Member=Component U? U_SOIC8_DRV8871DDA
+Added Member To Class: ClassName=Motor Member=Component U? U_SOIC8_DRV8871DDA
+Added Member To Class: ClassName=Motor Member=Component U? U_SOIC8_DRV8871DDA

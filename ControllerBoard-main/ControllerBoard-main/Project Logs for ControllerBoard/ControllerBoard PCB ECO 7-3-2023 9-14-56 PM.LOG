@@ -1,0 +1,8 @@
+Change Component Description : Designator=Q11 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | Logic Level
+Change Component Description : Designator=Q12 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | Logic Level
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Room: Name=IO
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power
